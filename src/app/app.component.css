@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+    color: white;
+}
+button{
+    background-color: rgb(13, 31, 112);
+    border-radius: 10px;
+    color: aliceblue;
+    height: 25px;
+    width: 200px;
+    flex-direction: row;
+    flex-direction: center;
+}
